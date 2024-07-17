@@ -1,3 +1,4 @@
+// @flow strict
 import { personalData } from "@/utils/data/personal-data";
 import Link from "next/link";
 import { BiLogoLinkedin } from "react-icons/bi";
@@ -16,9 +17,9 @@ function ContactSection() {
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center">
         <p className="text-sm text-[#d3d8e8]">
-          If you have any questions or concerns, please don't hesitate to
-          contact me. I am open to any work opportunities that align with my
-          skills and interests."
+          {
+            "If you have any questions or concerns, please don't hesitate to contact me. I am open to any work opportunities that align with my skills and interests."
+          }
         </p>
 
         <div className="lg:w-3/4 ">
