@@ -23,9 +23,9 @@ export const projectsData = [
     id: 3,
     name: "Shipdistrict",
     description:
-      "Worked on the frontend development of Ship District, a community logistics partner based in the Fashion District and surrounding areas of DTLA. Ship District provides consumers and store owners with discounted shipping rates, quality packing supplies, and expert assistance with complex shipping challenges. Utilizing Angular, I contributed to creating a user-friendly interface that enhances the overall user experience.",
-    tools: ["Angular", "Angular Material"],
-    role: "Frontend Developer",
+      "I worked on both the frontend and backend development of Ship District, a SaaS platform designed to provide consumers and store owners with discounted shipping rates, quality packing supplies, and expert help with complex shipping challenges. Based in the Fashion District of DTLA, Ship District serves the local community and beyond. On the frontend, using Angular and Angular Material, I helped build a user-friendly, responsive interface that simplifies logistics management. On the backend, I implemented scalable, efficient services using Node.js, ensuring smooth operations and seamless integration with third-party services.",
+    tools: ["Angular", "Angular Material", "Node.js", "Express"],
+    role: "Full-Stack Developer",
     code: "",
     demo: "",
   },
